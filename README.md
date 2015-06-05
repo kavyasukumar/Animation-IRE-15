@@ -6,7 +6,7 @@ Repo for [Animated video for storytelling](https://ire.org/events-and-training/e
 ### General
 | Use                    | Shortcut       |
 |------------------------|----------------|
-| New composition        | ctrl + n`      |
+| New composition        | `ctrl + n`      |
 | Show/hide grid         | `ctrl + '`     |
 | RAM preview            | `space`        |
 | RAM preview with sound | `ctrl + space` |

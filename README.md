@@ -6,12 +6,14 @@ Repo for [Animated video for storytelling](https://ire.org/events-and-training/e
 ### General
 | Use                    | Shortcut       |
 |------------------------|----------------|
-| New composition        | `ctrl + n`      |
+| New composition        | `ctrl + n`     |
 | Show/hide grid         | `ctrl + '`     |
 | RAM preview            | `space`        |
 | RAM preview with sound | `ctrl + space` |
 | Scrub to start         | `home`         |
 | Scrub to end           | `end`          |
+| Prev keyframe          | `j`            |
+| Next keyframe          | `k`            |
 
 ### Transform properties
 | Property | Shortcut |
@@ -20,3 +22,5 @@ Repo for [Animated video for storytelling](https://ire.org/events-and-training/e
 | Scale    | `s`      |
 | Rotation | `r`      |
 | Opacity  | `t`      |
+
+A comprehensive list is available [here] (http://www.setupablogtoday.com/wp-content/uploads/2015/05/after-effects-cheat-sheet-setupablogtodaycom-fin.pdf)

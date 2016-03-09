@@ -1,5 +1,5 @@
 # Animated video hands-on
-Repo for [Animated video for storytelling](https://ire.org/events-and-training/event/1574/2038/) hands-on training session at IRE 15
+Repo for [Animated video for storytelling](https://ire.org/events-and-training/event/2198/2321/) hands-on training session at NICAR 16
 
 ## Useful shortcuts
 
